@@ -1,6 +1,4 @@
-from geopandas import GeoDataFrame
-import geopandas as gpd
-from shapely.geometry import Point
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import pycountry
@@ -17,7 +15,7 @@ def getlatlong(x):
 
 def preprocess_data(filepath):
     df = pd.read_csv(filepath, sep="#",
-                     names=["IP", "Reliability", "Risk", "Type", "Country", "Locale", "Coords", "X"])
+                     names=["IP", "Reliability", "Risk", "Type", "Country", "Locale", "Coords", "X"]).head(30000)
     df = pd.concat((df, df.Coords.apply(getlatlong)), axis=1)
 
     # Counting non numeric values and replacing them by 0

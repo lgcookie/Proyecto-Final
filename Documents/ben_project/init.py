@@ -9,14 +9,13 @@ import matplotlib.pyplot as plt
 df = preprocess_data('data/reputation.data')
 num_df, cat_df = descriptive_stats(df)
 
-# create_global_map(df)
 
-# create_cont_table(df)
-# scatter_graph(df)
-# plot_histograms(df)
+create_cont_table(df)
+scatter_graph(df)
+plot_histograms(df)
 
-# run_lin_regression(df)
-# run_prob_regression(df)
+run_lin_regression(df)
+run_prob_regression(df)
 analyse_by_type(cat_df)
 plt.tight_layout()
 plt.show()
