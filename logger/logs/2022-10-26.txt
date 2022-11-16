@@ -1,0 +1,12 @@
+2022-10-26 15:49:20,674 - INFO       - vista.py - actualizar_treeview - Comenzando la interacción con la base de datos
+2022-10-26 15:49:20,675 - INFO       - vista.py - actualizar_treeview - Devuelto: actualizar la tabla con exito, hay 0 records en total - Terminar funcion
+2022-10-26 15:49:58,848 - INFO       - vista.py - actualizar_treeview - Comenzando la interacción con la base de datos
+2022-10-26 15:49:58,851 - INFO       - vista.py - actualizar_treeview - Devuelto: actualizar la tabla con exito, hay 0 records en total - Terminar funcion
+2022-10-26 15:50:10,765 - INFO       - vista.py - actualizar_treeview - Comenzando la interacción con la base de datos
+2022-10-26 15:50:10,766 - INFO       - vista.py - actualizar_treeview - Devuelto: actualizar la tabla con exito, hay 0 records en total - Terminar funcion
+2022-10-26 15:50:44,997 - INFO       - vista.py - actualizar_treeview - Comenzando la interacción con la base de datos
+2022-10-26 15:50:44,998 - INFO       - vista.py - actualizar_treeview - Devuelto: actualizar la tabla con exito, hay 0 records en total - Terminar funcion
+2022-10-26 15:51:10,087 - INFO       - vista.py - actualizar_treeview - Comenzando la interacción con la base de datos
+2022-10-26 15:51:10,087 - INFO       - vista.py - actualizar_treeview - Devuelto: actualizar la tabla con exito, hay 0 records en total - Terminar funcion
+2022-10-26 15:51:18,348 - INFO       - vista.py - actualizar_treeview - Comenzando la interacción con la base de datos
+2022-10-26 15:51:18,349 - INFO       - vista.py - actualizar_treeview - Devuelto: actualizar la tabla con exito, hay 0 records en total - Terminar funcion

@@ -1,0 +1,18 @@
+2022-11-16 12:18:15,155 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 12:18:15,160 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 10 records en total - Terminar funcion
+2022-11-16 12:18:20,576 - INFO       - observador.py - verificar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 12:18:20,585 - INFO       - observador.py - verificar_tbl - Devuelto: verificar el usario con usario_id: 13 con exito - Terminar funcion
+2022-11-16 12:18:20,589 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 12:18:20,594 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 10 records en total - Terminar funcion
+2022-11-16 12:18:39,634 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-16 12:18:39,637 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 17 con correo: louis@sd.com y empresa: asdas con exito - Terminar funcion
+2022-11-16 12:18:39,639 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 12:18:39,644 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 11 records en total - Terminar funcion
+2022-11-16 12:18:46,881 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-16 12:18:46,884 - ERROR      - observador.py - alta_tbl - Excepcion: Usario ya existe, por favor reintenté con un diferente correo
+2022-11-16 12:18:52,883 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-16 12:18:52,883 - ERROR      - observador.py - alta_tbl - Excepcion: Usario ya existe, por favor reintenté con un diferente correo
+2022-11-16 12:18:56,719 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-16 12:18:56,721 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 18 con correo: lousdis@sd.com y empresa: asdas con exito - Terminar funcion
+2022-11-16 12:18:56,722 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 12:18:56,726 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 12 records en total - Terminar funcion
