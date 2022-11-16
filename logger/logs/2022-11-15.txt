@@ -1,0 +1,286 @@
+2022-11-15 09:46:39,829 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 09:46:39,833 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 09:48:56,130 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 09:48:56,135 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 09:49:07,803 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 09:49:07,805 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 09:49:31,050 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 09:49:31,053 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 09:50:27,760 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 09:50:27,763 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 10:00:02,779 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:00:02,783 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 10:01:29,113 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:01:29,118 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 10:04:25,802 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:04:25,808 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 10:05:07,228 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:05:07,233 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 10:05:13,111 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:05:13,118 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 8 con exito - Terminar funcion
+2022-11-15 10:05:13,119 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:05:13,122 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 5 records en total - Terminar funcion
+2022-11-15 10:05:23,896 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:05:23,899 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 11 con exito - Terminar funcion
+2022-11-15 10:05:23,900 - ERROR      - observador.py - borrar_tbl - Excepcion: [Errno 54] Connection reset by peer
+2022-11-15 10:10:01,461 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:10:01,468 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 4 records en total - Terminar funcion
+2022-11-15 10:10:05,586 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:10:05,590 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 10 con exito - Terminar funcion
+2022-11-15 10:10:05,591 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:10:05,594 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 3 records en total - Terminar funcion
+2022-11-15 10:10:13,154 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:11:17,282 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:11:17,287 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 3 records en total - Terminar funcion
+2022-11-15 10:14:09,778 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:14:31,498 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:16:00,922 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:16:59,237 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:17:27,144 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:17:27,147 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 3 records en total - Terminar funcion
+2022-11-15 10:17:32,840 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:17:32,846 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 7 con exito - Terminar funcion
+2022-11-15 10:17:32,848 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:17:32,852 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 2 records en total - Terminar funcion
+2022-11-15 10:26:30,669 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:26:30,673 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 2 records en total - Terminar funcion
+2022-11-15 10:26:36,153 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:26:36,168 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 5 con exito - Terminar funcion
+2022-11-15 10:26:36,170 - ERROR      - observador.py - borrar_tbl - Excepcion: [Errno 61] Connection refused
+2022-11-15 10:27:42,710 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:27:42,715 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 1 records en total - Terminar funcion
+2022-11-15 10:27:47,749 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:27:47,765 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 6 con exito - Terminar funcion
+2022-11-15 10:27:47,768 - ERROR      - observador.py - borrar_tbl - Excepcion: [Errno 61] Connection refused
+2022-11-15 10:28:25,189 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:25,190 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 0 records en total - Terminar funcion
+2022-11-15 10:28:34,354 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:34,366 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 1 con correo: s@s.cm y empresa: s con exito - Terminar funcion
+2022-11-15 10:28:34,369 - ERROR      - observador.py - alta_tbl - Excepcion: [Errno 61] Connection refused
+2022-11-15 10:28:39,091 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:39,092 - ERROR      - observador.py - alta_tbl - Excepcion: UNIQUE constraint failed: usarios.correo
+2022-11-15 10:28:44,007 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:44,010 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 2 con correo: s@ss.cm y empresa: s con exito - Terminar funcion
+2022-11-15 10:28:44,012 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:44,017 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 2 records en total - Terminar funcion
+2022-11-15 10:28:46,464 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:46,467 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 3 con correo: s@sss.cm y empresa: s con exito - Terminar funcion
+2022-11-15 10:28:46,468 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:46,470 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 3 records en total - Terminar funcion
+2022-11-15 10:28:48,329 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:48,332 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 4 con correo: s@ssss.cm y empresa: s con exito - Terminar funcion
+2022-11-15 10:28:48,334 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:48,336 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 4 records en total - Terminar funcion
+2022-11-15 10:28:50,563 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:50,567 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 5 con correo: ss@ssss.cm y empresa: s con exito - Terminar funcion
+2022-11-15 10:28:50,568 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:50,571 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 5 records en total - Terminar funcion
+2022-11-15 10:28:52,587 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:52,591 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 6 con correo: sss@ssss.cm y empresa: s con exito - Terminar funcion
+2022-11-15 10:28:52,592 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:52,595 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 10:28:55,088 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:55,092 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 7 con correo: sss@sssss.cm y empresa: s con exito - Terminar funcion
+2022-11-15 10:28:55,093 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:28:55,096 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 10:29:01,630 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:29:36,892 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:29:36,896 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 10:29:41,289 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:29:41,302 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 7 con exito - Terminar funcion
+2022-11-15 10:29:41,304 - ERROR      - observador.py - borrar_tbl - Excepcion: [Errno 61] Connection refused
+2022-11-15 10:35:36,894 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:35:36,900 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 10:35:41,708 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:35:41,712 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 4 con exito - Terminar funcion
+2022-11-15 10:35:41,713 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:35:41,715 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 5 records en total - Terminar funcion
+2022-11-15 10:35:45,407 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:36:16,149 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:36:16,153 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 5 records en total - Terminar funcion
+2022-11-15 10:36:18,884 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:36:18,888 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 5 con exito - Terminar funcion
+2022-11-15 10:36:18,889 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:36:18,892 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 4 records en total - Terminar funcion
+2022-11-15 10:36:22,879 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:36:22,892 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 3 con exito - Terminar funcion
+2022-11-15 10:36:22,893 - ERROR      - observador.py - borrar_tbl - Excepcion: [Errno 61] Connection refused
+2022-11-15 10:36:40,914 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:36:40,917 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 3 records en total - Terminar funcion
+2022-11-15 10:37:03,662 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:37:03,666 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 3 records en total - Terminar funcion
+2022-11-15 10:37:08,107 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:37:08,120 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 6 con exito - Terminar funcion
+2022-11-15 10:37:08,121 - ERROR      - observador.py - borrar_tbl - Excepcion: [Errno 61] Connection refused
+2022-11-15 10:37:49,038 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:37:49,041 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 2 records en total - Terminar funcion
+2022-11-15 10:37:53,200 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:37:53,208 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 1 con exito - Terminar funcion
+2022-11-15 10:37:53,211 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:37:53,215 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 1 records en total - Terminar funcion
+2022-11-15 10:41:44,049 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:41:44,054 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 1 records en total - Terminar funcion
+2022-11-15 10:42:03,316 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:03,318 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 1 records en total - Terminar funcion
+2022-11-15 10:42:17,253 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:17,261 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 3 con correo: sda@sad.co.uk y empresa: asdsa con exito - Terminar funcion
+2022-11-15 10:42:17,264 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:17,269 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 2 records en total - Terminar funcion
+2022-11-15 10:42:20,767 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:20,771 - ERROR      - observador.py - alta_tbl - Excepcion: UNIQUE constraint failed: usarios.correo
+2022-11-15 10:42:25,184 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:25,941 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 4 con correo: sda@ssad.co.uk y empresa: asdsa con exito - Terminar funcion
+2022-11-15 10:42:25,945 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:25,950 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 3 records en total - Terminar funcion
+2022-11-15 10:42:28,168 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:28,174 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 5 con correo: ssda@ssad.co.uk y empresa: asdsa con exito - Terminar funcion
+2022-11-15 10:42:28,178 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:28,183 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 4 records en total - Terminar funcion
+2022-11-15 10:42:30,027 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:30,030 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 6 con correo: ssdas@ssad.co.uk y empresa: asdsa con exito - Terminar funcion
+2022-11-15 10:42:30,032 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:30,036 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 5 records en total - Terminar funcion
+2022-11-15 10:42:33,092 - INFO       - observador.py - verificar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:33,097 - INFO       - observador.py - verificar_tbl - Devuelto: verificar el usario con usario_id: 5 con exito - Terminar funcion
+2022-11-15 10:42:33,099 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:33,103 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 5 records en total - Terminar funcion
+2022-11-15 10:42:36,515 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:36,521 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 7 con correo: ssdsdas@ssad.co.uk y empresa: asdsa con exito - Terminar funcion
+2022-11-15 10:42:36,524 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:36,529 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 10:42:38,846 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:38,851 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 8 con correo: ssdsdas@ssad.dco.uk y empresa: asdsa con exito - Terminar funcion
+2022-11-15 10:42:38,854 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:38,859 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 10:42:42,236 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:42,240 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 9 con correo: ssdsdass@ssad.dco.uk y empresa: asdsa con exito - Terminar funcion
+2022-11-15 10:42:42,241 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:42,244 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 8 records en total - Terminar funcion
+2022-11-15 10:42:47,706 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:47,713 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 10 con correo: ssdsdsdass@ssad.dco.uk y empresa: asdsa con exito - Terminar funcion
+2022-11-15 10:42:47,716 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:47,722 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 9 records en total - Terminar funcion
+2022-11-15 10:42:50,065 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:50,069 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 8 con exito - Terminar funcion
+2022-11-15 10:42:50,071 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:50,076 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 8 records en total - Terminar funcion
+2022-11-15 10:42:55,122 - INFO       - observador.py - verificar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:55,126 - INFO       - observador.py - verificar_tbl - Devuelto: verificar el usario con usario_id: 3 con exito - Terminar funcion
+2022-11-15 10:42:55,128 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:55,131 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 8 records en total - Terminar funcion
+2022-11-15 10:42:58,522 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:58,527 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 11 con correo: ssdsdsdsdass@ssad.dco.uk y empresa: asdsa con exito - Terminar funcion
+2022-11-15 10:42:58,529 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:42:58,535 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 9 records en total - Terminar funcion
+2022-11-15 10:47:43,190 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:47:43,197 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 9 records en total - Terminar funcion
+2022-11-15 10:47:46,808 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:47:46,812 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 9 con exito - Terminar funcion
+2022-11-15 10:47:46,813 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:47:46,816 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 8 records en total - Terminar funcion
+2022-11-15 10:47:51,023 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:47:51,032 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 5 con exito - Terminar funcion
+2022-11-15 10:47:51,035 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 10:47:51,040 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:18:56,823 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:18:56,827 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:19:02,246 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:19:02,254 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 7 con exito - Terminar funcion
+2022-11-15 19:19:02,254 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:19:02,256 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 19:19:20,666 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:19:20,668 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 19:19:24,126 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:19:24,129 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 12 con correo: louis@louis.com y empresa: youstink con exito - Terminar funcion
+2022-11-15 19:19:24,129 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:19:24,131 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:19:28,033 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:19:28,034 - ERROR      - observador.py - alta_tbl - Excepcion: UNIQUE constraint failed: usarios.correo
+2022-11-15 19:20:57,418 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:20:57,423 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:21:06,403 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:21:06,405 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:22:44,374 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:22:44,378 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:22:56,904 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:22:56,907 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:23:01,683 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:23:01,685 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:24:07,347 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:24:07,352 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:24:16,887 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:24:16,889 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:24:43,970 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:24:43,973 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:24:51,989 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:24:51,992 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:24:55,390 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:24:55,393 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:24:58,133 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:24:58,135 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:25:06,937 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:25:06,943 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:25:12,581 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:25:12,592 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 6 con exito - Terminar funcion
+2022-11-15 19:25:12,593 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:25:12,595 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 19:25:13,812 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:25:13,816 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 19:28:41,369 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:28:41,375 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 19:28:55,952 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:28:55,955 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 19:29:04,430 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:29:04,433 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 19:29:19,989 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:29:19,993 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 19:29:29,992 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:29:29,994 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 19:32:33,578 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:32:33,582 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 6 records en total - Terminar funcion
+2022-11-15 19:32:41,437 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:32:41,441 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 13 con correo: sdsa@sd.co y empresa: asd asdas con exito - Terminar funcion
+2022-11-15 19:32:41,442 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:32:41,445 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:32:43,674 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:32:43,675 - ERROR      - observador.py - alta_tbl - Excepcion: UNIQUE constraint failed: usarios.correo
+2022-11-15 19:32:54,798 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:32:54,800 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:33:34,123 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:33:34,127 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 7 records en total - Terminar funcion
+2022-11-15 19:33:42,145 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:33:42,147 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 14 con correo: asdsa@sdssds.com y empresa: asdasda asdasda con exito - Terminar funcion
+2022-11-15 19:33:42,148 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:33:42,150 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 8 records en total - Terminar funcion
+2022-11-15 19:33:43,754 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:33:43,755 - ERROR      - observador.py - alta_tbl - Excepcion: UNIQUE constraint failed: usarios.correo
+2022-11-15 19:34:23,801 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:34:23,805 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 8 records en total - Terminar funcion
+2022-11-15 19:34:30,498 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:34:30,502 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 15 con correo: dsadas@sdas.com y empresa: dasdasdsad con exito - Terminar funcion
+2022-11-15 19:34:30,503 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:34:30,507 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 9 records en total - Terminar funcion
+2022-11-15 19:34:32,873 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:34:32,874 - ERROR      - observador.py - alta_tbl - Excepcion: UNIQUE constraint failed: usarios.correo
+2022-11-15 19:35:56,920 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:35:56,924 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 9 records en total - Terminar funcion
+2022-11-15 19:36:04,248 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:36:04,254 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 16 con correo: s@s.com y empresa: adsa con exito - Terminar funcion
+2022-11-15 19:36:04,255 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:36:04,258 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 10 records en total - Terminar funcion
+2022-11-15 19:36:05,072 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:36:05,073 - ERROR      - observador.py - alta_tbl - Excepcion: UNIQUE constraint failed: usarios.correo
+2022-11-15 19:36:57,410 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:36:57,414 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 10 records en total - Terminar funcion
+2022-11-15 19:37:06,143 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:37:06,402 - ERROR      - observador.py - alta_tbl - Excepcion: 'NoneType' object is not subscriptable
+2022-11-15 19:37:10,099 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:37:10,100 - ERROR      - observador.py - alta_tbl - Excepcion: 'NoneType' object is not subscriptable
+2022-11-15 19:38:48,621 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:38:48,625 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 10 records en total - Terminar funcion
+2022-11-15 19:38:55,215 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:38:55,215 - ERROR      - observador.py - alta_tbl - Excepcion: Usario ya existe, por favor reintenté con un diferente correo
+2022-11-15 19:39:00,731 - INFO       - observador.py - alta_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:39:00,732 - ERROR      - observador.py - alta_tbl - Excepcion: Usario ya existe, por favor reintenté con un diferente correo
+2022-11-15 19:39:23,602 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-15 19:39:23,651 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 10 records en total - Terminar funcion
