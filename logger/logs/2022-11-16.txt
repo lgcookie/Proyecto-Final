@@ -16,3 +16,17 @@
 2022-11-16 12:18:56,721 - INFO       - observador.py - alta_tbl - Devuelto: agregar usario 18 con correo: lousdis@sd.com y empresa: asdas con exito - Terminar funcion
 2022-11-16 12:18:56,722 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
 2022-11-16 12:18:56,726 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 12 records en total - Terminar funcion
+2022-11-16 14:10:15,775 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 14:10:15,780 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 12 records en total - Terminar funcion
+2022-11-16 14:10:18,853 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 14:10:18,860 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 16 con exito - Terminar funcion
+2022-11-16 14:10:18,861 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 14:10:18,864 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 11 records en total - Terminar funcion
+2022-11-16 14:10:21,099 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 14:10:21,102 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 12 con exito - Terminar funcion
+2022-11-16 14:10:21,103 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 14:10:21,105 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 10 records en total - Terminar funcion
+2022-11-16 14:10:24,018 - INFO       - observador.py - borrar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 14:10:24,027 - INFO       - observador.py - borrar_tbl - Devuelto: borrar el usario con usario_id: 18 con exito - Terminar funcion
+2022-11-16 14:10:24,080 - INFO       - observador.py - actualizar_tbl - Comenzando la interacción con la base de datos
+2022-11-16 14:10:24,083 - INFO       - observador.py - actualizar_tbl - Devuelto: actualizar la tabla con exito, hay 9 records en total - Terminar funcion
